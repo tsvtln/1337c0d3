@@ -1,0 +1,110 @@
+{
+    "Germany": {
+        "country_population": 83445000,
+        "country_population_percentage": "18.6"
+    },
+    "France": {
+        "country_population": 68402000,
+        "country_population_percentage": "15.2"
+    },
+    "Italy": {
+        "country_population": 58989700,
+        "country_population_percentage": "13.1"
+    },
+    "Spain": {
+        "country_population": 48610500,
+        "country_population_percentage": "10.8"
+    },
+    "Poland": {
+        "country_population": 36621000,
+        "country_population_percentage": "8.2"
+    },
+    "Romania": {
+        "country_population": 19064400,
+        "country_population_percentage": "4.2"
+    },
+    "Netherlands": {
+        "country_population": 17942900,
+        "country_population_percentage": "4.0"
+    },
+    "Belgium": {
+        "country_population": 11832000,
+        "country_population_percentage": "2.6"
+    },
+    "Czech Republic": {
+        "country_population": 10900600,
+        "country_population_percentage": "2.4"
+    },
+    "Portugal": {
+        "country_population": 10639700,
+        "country_population_percentage": "2.4"
+    },
+    "Sweden": {
+        "country_population": 10551700,
+        "country_population_percentage": "2.3"
+    },
+    "Greece": {
+        "country_population": 10397200,
+        "country_population_percentage": "2.3"
+    },
+    "Hungary": {
+        "country_population": 9584600,
+        "country_population_percentage": "2.1"
+    },
+    "Austria": {
+        "country_population": 9158800,
+        "country_population_percentage": "2.0"
+    },
+    "Bulgaria": {
+        "country_population": 6445500,
+        "country_population_percentage": "1.4"
+    },
+    "Denmark": {
+        "country_population": 5961200,
+        "country_population_percentage": "1.3"
+    },
+    "Finland": {
+        "country_population": 5603900,
+        "country_population_percentage": "1.2"
+    },
+    "Slovakia": {
+        "country_population": 5424700,
+        "country_population_percentage": "1.2"
+    },
+    "Ireland": {
+        "country_population": 5343800,
+        "country_population_percentage": "1.2"
+    },
+    "Croatia": {
+        "country_population": 3862000,
+        "country_population_percentage": "0.9"
+    },
+    "Lithuania": {
+        "country_population": 2885900,
+        "country_population_percentage": "0.6"
+    },
+    "Slovenia": {
+        "country_population": 2123900,
+        "country_population_percentage": "0.5"
+    },
+    "Latvia": {
+        "country_population": 1871900,
+        "country_population_percentage": "0.4"
+    },
+    "Estonia": {
+        "country_population": 1374700,
+        "country_population_percentage": "0.3"
+    },
+    "Cyprus": {
+        "country_population": 933500,
+        "country_population_percentage": "0.2"
+    },
+    "Luxembourg": {
+        "country_population": 672100,
+        "country_population_percentage": "0.1"
+    },
+    "Malta": {
+        "country_population": 563400,
+        "country_population_percentage": "0.1"
+    }
+}
