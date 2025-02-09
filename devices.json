@@ -1,20 +1,10 @@
 [
-    "laptop",
-    "pc",
-    "phone",
+    "iphone",
+    "android",
+    "radio",
     "tv",
-    "laptop-hp",
-    "laptop-toshiba",
-    "roborock-vc",
-    "tv-ariele",
-    "tv-lg(h)",
-    "tv-sony",
-    "vc-contact",
-    "vc-mvb",
-    "monitor-Philips_1",
-    "monitor-Philips_2",
-    "monitor-MSI",
-    "monitor-LG_G",
-    "kb-BlackWidow_75%",
-    "phone-BlackShark_v4_Pro"
+    "tablet",
+    "pc",
+    "laptop",
+    "peralna"
 ]
